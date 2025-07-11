@@ -1,9 +1,9 @@
 
-# 🎨 <strong>Artistico - iOS App for Visual Artists</strong>
+# 🎨 <strong>Artistica - iOS App for Visual Artists</strong>
 
 ## 📜 <strong>Overview</strong>
 
-<strong>Artistico</strong> is a vibrant iOS application crafted specifically for visual artists. It’s a platform where artists can connect with peers worldwide, showcase their masterpieces, join creative communities, challenge themselves with artistic competitions, and build an exquisite portfolio. Developed under the guidance of the <strong>iOS Application Development Program</strong> at <strong>Galgotias University</strong>, Artistico is a testament to the skills and creativity of its developers.
+<strong>Artistica</strong> is a vibrant iOS application crafted specifically for visual artists. It’s a platform where artists can connect with peers worldwide, showcase their masterpieces, join creative communities, challenge themselves with artistic competitions, and build an exquisite portfolio. Developed under the guidance of the <strong>iOS Application Development Program</strong> at <strong>Galgotias University</strong>, Artistica is a testament to the skills and creativity of its developers.
 
 ## ✨ <strong>Features</strong>
 
@@ -33,11 +33,11 @@
     <tr>
       <td width="50%">
         <p align="left">
-          The <strong>Explore</strong> tab is the heart of the Artistico app, serving as the first touchpoint for users upon launching the application. It presents a curated feed of artworks shared by artists within the community, providing a visual journey through various styles, mediums, and creative expressions. This tab encourages interaction; users can like, comment, and share their thoughts on artworks, fostering a sense of community. The upper section prominently displays featured content, such as interested artworks or highlighted artists, ensuring that users stay updated with the latest trends and opportunities within the app. The Explore tab is designed to inspire creativity and offer endless exploration possibilities.
+          The <strong>Explore</strong> tab is the heart of the Artistica app, serving as the first touchpoint for users upon launching the application. It presents a curated feed of artworks shared by artists within the community, providing a visual journey through various styles, mediums, and creative expressions. This tab encourages interaction; users can like, comment, and share their thoughts on artworks, fostering a sense of community. The upper section prominently displays featured content, such as interested artworks or highlighted artists, ensuring that users stay updated with the latest trends and opportunities within the app. The Explore tab is designed to inspire creativity and offer endless exploration possibilities.
         </p>
       </td>
       <td width="50%">
-        <img src="./Artistico_Stuff/Explore_Page.png" width="350" height="760" alt="Explore Tab">
+        <img src="./Artistica_Stuff/Explore_Page.png" width="350" height="760" alt="Explore Tab">
       </td>
     </tr>
   </table>
@@ -48,11 +48,11 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="./Artistico_Stuff/Connect_Page.png" width="350" height="760" alt="Connect Tab">
+        <img src="./Artistica_Stuff/Connect_Page.png" width="350" height="760" alt="Connect Tab">
       </td>
       <td width="50%">
         <p align="left">
-          The <strong>Connect</strong> tab, labeled as <em>Community</em> within the app, is the social hub where artists from around the globe come together to share ideas, discuss various topics, and provide feedback on each other's work. The interface resembles a blend of a chatroom and a forum, allowing for both real-time discussions and ongoing threads. Users can join multiple communities based on their interests, whether it's specific art forms, techniques, or broader artistic discussions. The search functionality at the top of this tab helps users find and join new communities quickly. This tab is essential for building relationships and expanding one's network within the Artistico platform.
+          The <strong>Connect</strong> tab, labeled as <em>Community</em> within the app, is the social hub where artists from around the globe come together to share ideas, discuss various topics, and provide feedback on each other's work. The interface resembles a blend of a chatroom and a forum, allowing for both real-time discussions and ongoing threads. Users can join multiple communities based on their interests, whether it's specific art forms, techniques, or broader artistic discussions. The search functionality at the top of this tab helps users find and join new communities quickly. This tab is essential for building relationships and expanding one's network within the Artistica platform.
         </p>
       </td>
     </tr>
@@ -64,11 +64,11 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="./Artistico_Stuff/Challenge_Page.png" width="350" height="760" alt="Challenges Tab">
+        <img src="./Artistica_Stuff/Challenge_Page.png" width="350" height="760" alt="Challenges Tab">
       </td>
       <td width="50%">
         <p align="left">
-          The <strong>Challenges</strong> tab is where the competitive and creative aspects of Artistico truly shine. Here, users can participate in weekly challenges that are designed to push their creative limits. Each challenge is accompanied by a countdown timer, ensuring that participants are aware of submission deadlines. Users can submit their artwork directly through this tab and view submissions from other artists, fostering a healthy competitive environment. The challenges range in difficulty and scope, offering something for everyone, from beginners to seasoned artists. This tab not only encourages continuous artistic growth but also helps users gain visibility and recognition within the community.
+          The <strong>Challenges</strong> tab is where the competitive and creative aspects of Artistica truly shine. Here, users can participate in weekly challenges that are designed to push their creative limits. Each challenge is accompanied by a countdown timer, ensuring that participants are aware of submission deadlines. Users can submit their artwork directly through this tab and view submissions from other artists, fostering a healthy competitive environment. The challenges range in difficulty and scope, offering something for everyone, from beginners to seasoned artists. This tab not only encourages continuous artistic growth but also helps users gain visibility and recognition within the community.
         </p>
       </td>
     </tr>
@@ -81,11 +81,11 @@
     <tr>
       <td width="50%">
         <p align="left">
-          The <strong>Profile</strong> tab is the personal space where users can showcase their artistic journey. This section allows users to manage and update their portfolios, displaying their best work in a visually appealing grid layout. The tab also features the user's avatar, bio, and social stats, including followers, views, and engagement on their artwork. Tags can be added to each piece to categorize the work and make it easier for others to discover. The Profile tab is crucial for artists who wish to build and maintain a professional presence within the Artistico community, acting as both a personal gallery and a resume for prospective collaborations or opportunities.
+          The <strong>Profile</strong> tab is the personal space where users can showcase their artistic journey. This section allows users to manage and update their portfolios, displaying their best work in a visually appealing grid layout. The tab also features the user's avatar, bio, and social stats, including followers, views, and engagement on their artwork. Tags can be added to each piece to categorize the work and make it easier for others to discover. The Profile tab is crucial for artists who wish to build and maintain a professional presence within the Artistica community, acting as both a personal gallery and a resume for prospective collaborations or opportunities.
         </p>
       </td>
       <td width="50%">
-        <img src="./Artistico_Stuff/Profile_Page.png" width="350" height="760" alt="Profile Tab">
+        <img src="./Artistica_Stuff/Profile_Page.png" width="350" height="760" alt="Profile Tab">
       </td>
     </tr>
   </table>
@@ -93,7 +93,7 @@
 
 ## 👩‍💻 <strong>Development Team</strong>
 
-Artistico was developed by a team of four dedicated developers:
+Artistica was developed by a team of four dedicated developers:
 
 <div align="center">
   <table>
@@ -124,7 +124,7 @@ This project was developed under the mentorship of the <strong>iOS Application D
 
 ## 📅 <strong>Availability</strong>
 
-<strong>Artistico</strong> is now available on Appstore, <a href="https://apps.apple.com/in/app/artistica/id6743148382">Click Here</a>
+<strong>Artistica</strong> is now available on Appstore, <a href="https://apps.apple.com/in/app/artistica/id6743148382">Click Here</a>
  to download it now!
 
 ## 📜 **License**
