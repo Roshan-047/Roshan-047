@@ -37,7 +37,7 @@
         </p>
       </td>
       <td width="50%">
-        <img src="./Artistica_Stuff/Explore_Page.png" width="350" height="760" alt="Explore Tab">
+        <img src="./images/Explore_Page.png" width="350" height="760" alt="Explore Tab">
       </td>
     </tr>
   </table>
@@ -48,7 +48,7 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="./Artistica_Stuff/Connect_Page.png" width="350" height="760" alt="Connect Tab">
+        <img src="./images/Connect_Page.png" width="350" height="760" alt="Connect Tab">
       </td>
       <td width="50%">
         <p align="left">
@@ -64,7 +64,7 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="./Artistica_Stuff/Challenge_Page.png" width="350" height="760" alt="Challenges Tab">
+        <img src="./images/Challenge_Page.png" width="350" height="760" alt="Challenges Tab">
       </td>
       <td width="50%">
         <p align="left">
@@ -85,7 +85,7 @@
         </p>
       </td>
       <td width="50%">
-        <img src="./Artistica_Stuff/Profile_Page.png" width="350" height="760" alt="Profile Tab">
+        <img src="./images/Profile_Page.png" width="350" height="760" alt="Profile Tab">
       </td>
     </tr>
   </table>
