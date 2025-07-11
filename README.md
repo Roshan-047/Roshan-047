@@ -99,6 +99,10 @@ Artistica was developed by a team of four dedicated developers:
   <table>
     <tr>
       <td align="center">
+        <img src="https://github.com/roshan-047.png" width="120" height="120" alt="Roshan Karn"><br>
+        <strong>Roshan Karn</strong>
+      </td>
+      <td align="center">
         <img src="https://github.com/aadi-aarrllo.png" width="120" height="120" alt="Aditya Kumar Gupta"><br>
         <strong>Aditya Kumar Gupta</strong>
       </td>
@@ -109,10 +113,6 @@ Artistica was developed by a team of four dedicated developers:
       <td align="center">
         <img src="https://github.com/Sharon1530.png" width="120" height="120" alt="Aida Sharon Bruce"><br>
         <strong>Aida Sharon Bruce</strong>
-      </td>
-      <td align="center">
-        <img src="https://github.com/roshan-047.png" width="120" height="120" alt="Roshan Karn"><br>
-        <strong>Roshan Karn</strong>
       </td>
     </tr>
   </table>
